@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgsyeon%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
 <a href="https://www.instagram.com/s__y_96/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
-<a href="mailto:tmdqls960309@gmail.com" target="_blank"><img src="https://img.shields.io/badge/tmdqls960309@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+<a href="mailto:seoyaon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/seoyaon@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
 
 ![gsyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsyeon&show_icons=true&theme=dracula)
