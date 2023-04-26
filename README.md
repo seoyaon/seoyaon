@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 <a href="mailto:seoyaon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/seoyaon@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
 
-![seoyaon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyaon&show_icons=true&theme=dracula)
+<!-- ![seoyaon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyaon&show_icons=true&theme=dracula) -->
 
 <!-- <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/> -->
